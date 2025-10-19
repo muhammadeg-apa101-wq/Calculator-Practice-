@@ -1,0 +1,14 @@
+C:\Users\baloglan\Desktop\C# task\Abstract Interface Praktika\Abstract Interface Praktika\bin\Debug\net8.0\Abstract Interface Praktika.exe
+C:\Users\baloglan\Desktop\C# task\Abstract Interface Praktika\Abstract Interface Praktika\bin\Debug\net8.0\Abstract Interface Praktika.deps.json
+C:\Users\baloglan\Desktop\C# task\Abstract Interface Praktika\Abstract Interface Praktika\bin\Debug\net8.0\Abstract Interface Praktika.runtimeconfig.json
+C:\Users\baloglan\Desktop\C# task\Abstract Interface Praktika\Abstract Interface Praktika\bin\Debug\net8.0\Abstract Interface Praktika.dll
+C:\Users\baloglan\Desktop\C# task\Abstract Interface Praktika\Abstract Interface Praktika\bin\Debug\net8.0\Abstract Interface Praktika.pdb
+C:\Users\baloglan\Desktop\C# task\Abstract Interface Praktika\Abstract Interface Praktika\obj\Debug\net8.0\Abstract Interface Praktika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baloglan\Desktop\C# task\Abstract Interface Praktika\Abstract Interface Praktika\obj\Debug\net8.0\Abstract Interface Praktika.AssemblyInfoInputs.cache
+C:\Users\baloglan\Desktop\C# task\Abstract Interface Praktika\Abstract Interface Praktika\obj\Debug\net8.0\Abstract Interface Praktika.AssemblyInfo.cs
+C:\Users\baloglan\Desktop\C# task\Abstract Interface Praktika\Abstract Interface Praktika\obj\Debug\net8.0\Abstract Interface Praktika.csproj.CoreCompileInputs.cache
+C:\Users\baloglan\Desktop\C# task\Abstract Interface Praktika\Abstract Interface Praktika\obj\Debug\net8.0\Abstract Interface Praktika.dll
+C:\Users\baloglan\Desktop\C# task\Abstract Interface Praktika\Abstract Interface Praktika\obj\Debug\net8.0\refint\Abstract Interface Praktika.dll
+C:\Users\baloglan\Desktop\C# task\Abstract Interface Praktika\Abstract Interface Praktika\obj\Debug\net8.0\Abstract Interface Praktika.pdb
+C:\Users\baloglan\Desktop\C# task\Abstract Interface Praktika\Abstract Interface Praktika\obj\Debug\net8.0\Abstract Interface Praktika.genruntimeconfig.cache
+C:\Users\baloglan\Desktop\C# task\Abstract Interface Praktika\Abstract Interface Praktika\obj\Debug\net8.0\ref\Abstract Interface Praktika.dll
