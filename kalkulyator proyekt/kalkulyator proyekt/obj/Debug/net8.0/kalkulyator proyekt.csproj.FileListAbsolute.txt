@@ -1,0 +1,14 @@
+C:\Users\baloglan\Desktop\C# task\kalkulyator proyekt\kalkulyator proyekt\bin\Debug\net8.0\kalkulyator proyekt.exe
+C:\Users\baloglan\Desktop\C# task\kalkulyator proyekt\kalkulyator proyekt\bin\Debug\net8.0\kalkulyator proyekt.deps.json
+C:\Users\baloglan\Desktop\C# task\kalkulyator proyekt\kalkulyator proyekt\bin\Debug\net8.0\kalkulyator proyekt.runtimeconfig.json
+C:\Users\baloglan\Desktop\C# task\kalkulyator proyekt\kalkulyator proyekt\bin\Debug\net8.0\kalkulyator proyekt.dll
+C:\Users\baloglan\Desktop\C# task\kalkulyator proyekt\kalkulyator proyekt\bin\Debug\net8.0\kalkulyator proyekt.pdb
+C:\Users\baloglan\Desktop\C# task\kalkulyator proyekt\kalkulyator proyekt\obj\Debug\net8.0\kalkulyator proyekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baloglan\Desktop\C# task\kalkulyator proyekt\kalkulyator proyekt\obj\Debug\net8.0\kalkulyator proyekt.AssemblyInfoInputs.cache
+C:\Users\baloglan\Desktop\C# task\kalkulyator proyekt\kalkulyator proyekt\obj\Debug\net8.0\kalkulyator proyekt.AssemblyInfo.cs
+C:\Users\baloglan\Desktop\C# task\kalkulyator proyekt\kalkulyator proyekt\obj\Debug\net8.0\kalkulyator proyekt.csproj.CoreCompileInputs.cache
+C:\Users\baloglan\Desktop\C# task\kalkulyator proyekt\kalkulyator proyekt\obj\Debug\net8.0\kalkulyator proyekt.dll
+C:\Users\baloglan\Desktop\C# task\kalkulyator proyekt\kalkulyator proyekt\obj\Debug\net8.0\refint\kalkulyator proyekt.dll
+C:\Users\baloglan\Desktop\C# task\kalkulyator proyekt\kalkulyator proyekt\obj\Debug\net8.0\kalkulyator proyekt.pdb
+C:\Users\baloglan\Desktop\C# task\kalkulyator proyekt\kalkulyator proyekt\obj\Debug\net8.0\kalkulyator proyekt.genruntimeconfig.cache
+C:\Users\baloglan\Desktop\C# task\kalkulyator proyekt\kalkulyator proyekt\obj\Debug\net8.0\ref\kalkulyator proyekt.dll
